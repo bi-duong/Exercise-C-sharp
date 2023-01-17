@@ -1,0 +1,12 @@
+D:\C#\threelayer3student\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\C#\threelayer3student\DTO\bin\Debug\net6.0\DTO.dll
+D:\C#\threelayer3student\DTO\bin\Debug\net6.0\DTO.pdb
+D:\C#\threelayer3student\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\C#\threelayer3student\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\threelayer3student\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\C#\threelayer3student\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\C#\threelayer3student\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\C#\threelayer3student\DTO\obj\Debug\net6.0\DTO.dll
+D:\C#\threelayer3student\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\C#\threelayer3student\DTO\obj\Debug\net6.0\DTO.pdb
+D:\C#\threelayer3student\DTO\obj\Debug\net6.0\ref\DTO.dll

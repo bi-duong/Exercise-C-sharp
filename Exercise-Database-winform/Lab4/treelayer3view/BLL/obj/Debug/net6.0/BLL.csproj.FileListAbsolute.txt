@@ -1,0 +1,17 @@
+D:\C#\treelayer3view\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\C#\treelayer3view\BLL\bin\Debug\net6.0\BLL.dll
+D:\C#\treelayer3view\BLL\bin\Debug\net6.0\BLL.pdb
+D:\C#\treelayer3view\BLL\bin\Debug\net6.0\DAL.dll
+D:\C#\treelayer3view\BLL\bin\Debug\net6.0\DTO.dll
+D:\C#\treelayer3view\BLL\bin\Debug\net6.0\DAL.pdb
+D:\C#\treelayer3view\BLL\bin\Debug\net6.0\DTO.pdb
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\BLL.dll
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\BLL.pdb
+D:\C#\treelayer3view\BLL\obj\Debug\net6.0\ref\BLL.dll

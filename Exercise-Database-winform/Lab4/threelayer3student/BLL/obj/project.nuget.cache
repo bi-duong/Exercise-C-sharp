@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VYd/P24d+2MmPiMnnFOcH6lN7WMX66/PnCZ08m3aOkqFm1ANKgJCvbuvsvF0nIpu78+VyqTW0ZiIOMPJgF9ACA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\threelayer3student\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bi Duong\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\Bi Duong\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

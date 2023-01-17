@@ -1,0 +1,15 @@
+D:\C#\Exercise\example\winform1\bin\Debug\net6.0\winform1.exe
+D:\C#\Exercise\example\winform1\bin\Debug\net6.0\winform1.deps.json
+D:\C#\Exercise\example\winform1\bin\Debug\net6.0\winform1.runtimeconfig.json
+D:\C#\Exercise\example\winform1\bin\Debug\net6.0\winform1.dll
+D:\C#\Exercise\example\winform1\bin\Debug\net6.0\winform1.pdb
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\winform1.csproj.AssemblyReference.cache
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\winform1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\winform1.AssemblyInfoInputs.cache
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\winform1.AssemblyInfo.cs
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\winform1.csproj.CoreCompileInputs.cache
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\winform1.dll
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\refint\winform1.dll
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\winform1.pdb
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\winform1.genruntimeconfig.cache
+D:\C#\Exercise\example\winform1\obj\Debug\net6.0\ref\winform1.dll

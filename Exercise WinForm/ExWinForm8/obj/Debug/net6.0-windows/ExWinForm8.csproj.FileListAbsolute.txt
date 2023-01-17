@@ -1,0 +1,17 @@
+D:\C#\Exercise\example\ExWinForm8\bin\Debug\net6.0-windows\ExWinForm8.exe
+D:\C#\Exercise\example\ExWinForm8\bin\Debug\net6.0-windows\ExWinForm8.deps.json
+D:\C#\Exercise\example\ExWinForm8\bin\Debug\net6.0-windows\ExWinForm8.runtimeconfig.json
+D:\C#\Exercise\example\ExWinForm8\bin\Debug\net6.0-windows\ExWinForm8.dll
+D:\C#\Exercise\example\ExWinForm8\bin\Debug\net6.0-windows\ExWinForm8.pdb
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.csproj.AssemblyReference.cache
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.Form1.resources
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.csproj.GenerateResource.cache
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.AssemblyInfoInputs.cache
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.AssemblyInfo.cs
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.csproj.CoreCompileInputs.cache
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.dll
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\refint\ExWinForm8.dll
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.pdb
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ExWinForm8.genruntimeconfig.cache
+D:\C#\Exercise\example\ExWinForm8\obj\Debug\net6.0-windows\ref\ExWinForm8.dll

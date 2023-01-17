@@ -1,0 +1,17 @@
+D:\C#\Exercise\example\ExWinForm13\bin\Debug\net6.0-windows\ExWinForm13.exe
+D:\C#\Exercise\example\ExWinForm13\bin\Debug\net6.0-windows\ExWinForm13.deps.json
+D:\C#\Exercise\example\ExWinForm13\bin\Debug\net6.0-windows\ExWinForm13.runtimeconfig.json
+D:\C#\Exercise\example\ExWinForm13\bin\Debug\net6.0-windows\ExWinForm13.dll
+D:\C#\Exercise\example\ExWinForm13\bin\Debug\net6.0-windows\ExWinForm13.pdb
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.csproj.AssemblyReference.cache
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.Form1.resources
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.csproj.GenerateResource.cache
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.AssemblyInfoInputs.cache
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.AssemblyInfo.cs
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.csproj.CoreCompileInputs.cache
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.dll
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\refint\ExWinForm13.dll
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.pdb
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ExWinForm13.genruntimeconfig.cache
+D:\C#\Exercise\example\ExWinForm13\obj\Debug\net6.0-windows\ref\ExWinForm13.dll

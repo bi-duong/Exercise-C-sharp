@@ -1,0 +1,17 @@
+D:\C#\Exercise\example\Slideex1\bin\Debug\net6.0-windows\Slideex1.exe
+D:\C#\Exercise\example\Slideex1\bin\Debug\net6.0-windows\Slideex1.deps.json
+D:\C#\Exercise\example\Slideex1\bin\Debug\net6.0-windows\Slideex1.runtimeconfig.json
+D:\C#\Exercise\example\Slideex1\bin\Debug\net6.0-windows\Slideex1.dll
+D:\C#\Exercise\example\Slideex1\bin\Debug\net6.0-windows\Slideex1.pdb
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.csproj.AssemblyReference.cache
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.Form1.resources
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.csproj.GenerateResource.cache
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.AssemblyInfoInputs.cache
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.AssemblyInfo.cs
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.csproj.CoreCompileInputs.cache
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.dll
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\refint\Slideex1.dll
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.pdb
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\Slideex1.genruntimeconfig.cache
+D:\C#\Exercise\example\Slideex1\obj\Debug\net6.0-windows\ref\Slideex1.dll

@@ -1,0 +1,15 @@
+D:\C#\threelayer3student\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\C#\threelayer3student\DAL\bin\Debug\net6.0\DAL.dll
+D:\C#\threelayer3student\DAL\bin\Debug\net6.0\DAL.pdb
+D:\C#\threelayer3student\DAL\bin\Debug\net6.0\DTO.dll
+D:\C#\threelayer3student\DAL\bin\Debug\net6.0\DTO.pdb
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\DAL.dll
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\DAL.pdb
+D:\C#\threelayer3student\DAL\obj\Debug\net6.0\ref\DAL.dll

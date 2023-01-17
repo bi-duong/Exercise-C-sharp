@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EItUr0p8Ztq465fd35k/xWqOLsRQKvOAtiIW/yipj8kGzlKt8UC3ROIHI5w52EWqEfCISr3C2TrtSggfFZREfg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\LAB1_LAB_DATABASE CONNECTION\\lab01ex2\\lab01ex2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bi Duong\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\Bi Duong\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

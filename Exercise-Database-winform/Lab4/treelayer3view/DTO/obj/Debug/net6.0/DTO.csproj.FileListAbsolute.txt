@@ -1,0 +1,12 @@
+D:\C#\treelayer3view\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\C#\treelayer3view\DTO\bin\Debug\net6.0\DTO.dll
+D:\C#\treelayer3view\DTO\bin\Debug\net6.0\DTO.pdb
+D:\C#\treelayer3view\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\C#\treelayer3view\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\treelayer3view\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\C#\treelayer3view\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\C#\treelayer3view\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\C#\treelayer3view\DTO\obj\Debug\net6.0\DTO.dll
+D:\C#\treelayer3view\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\C#\treelayer3view\DTO\obj\Debug\net6.0\DTO.pdb
+D:\C#\treelayer3view\DTO\obj\Debug\net6.0\ref\DTO.dll
